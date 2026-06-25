@@ -1,0 +1,8 @@
+{
+  "name": "Remix: ApexRatings",
+  "description": "A premium product rating and daily task-based earning simulation platform with comprehensive user accounts, VIP tier upgrades, team referral tracking, deposit and withdrawal records, and a custom admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
